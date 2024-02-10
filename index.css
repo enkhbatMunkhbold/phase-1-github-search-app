@@ -11,3 +11,25 @@
 ul {
   list-style: none;
 }
+
+.card {
+  text-align: 'center';
+  border: grey solid 1px;
+  width: 15rem;
+  height: 20rem;
+  display: inline-grid;
+  margin: 1rem 2rem;
+  box-shadow: 3px 4px #e04b52;
+}
+
+#user-list {
+  position: relative;
+  float: left;
+  width: 65%;
+}
+
+img {
+  justify-self: center;
+  height: 12rem;
+  width: auto;
+}
